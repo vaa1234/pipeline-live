@@ -27,7 +27,7 @@ setup(
     install_requires=[
         'pandas-datareader>=0.8.1',
         'lxml>=4.6.2',
-        'alpaca-trade-api>=0.52.0',
+        'alpaca-trade-api==1.5.0',
         'iexfinance>=0.4.1,<0.5.0',
         'zipline-reloaded>=2',
     ],
